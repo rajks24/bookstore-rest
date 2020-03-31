@@ -7,7 +7,7 @@
 
 This application is built to test the CRUD functionality. It can be used to perform POC's for various cloud-native initiatives.
 
-<img src="src/main/resources/static/img/bookstore-app.png" alt="bookstore-app" width="400"/>
+<img src="src/main/resources/static/img/bookstore-app.png" alt="bookstore-app" width="600"/>
 
 
 ### API's exposed as below :
@@ -74,5 +74,5 @@ App Web UI can be accessed at : `http://localhost:8080`
 
 
 ## License
-MIT
+GNU GPL v3.0
 
