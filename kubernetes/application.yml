@@ -34,3 +34,5 @@ spec:
         image: bookstore-api
         ports:
         - containerPort: 8080
+      imagePullSecrets:
+        - name: regcred
